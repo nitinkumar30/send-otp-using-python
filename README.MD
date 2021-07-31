@@ -35,7 +35,7 @@
 
 ### Sent OTP via Phone Number
 
-> So, this is something of hard too.  
+> So, this is something of hard too. Checkout the code [here](https://github.com/nitin30kumar/sent-otp-using-python/blob/main/sent_otp_via_phone.py)  
 > You need to have twilio account with mail id & phone number verified. Make an account [here](https://www.twilio.com/try-twilio)  
 > First go to console & copy your ACCOUNT_SID & AUTH_TOKEN. You can get them [here](https://www.twilio.com/console)  
 > Then paste them in the space provided in the code  
