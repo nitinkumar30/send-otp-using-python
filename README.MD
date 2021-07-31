@@ -18,6 +18,20 @@
 > No need to install any new library. Just run the code.
 > Recommended IDE is PyCharm Community  
 
+### See the screenshots below for clarification
+
+1. How to add app passwords
+
+- <img width="495" alt="app-pass-1" src="https://user-images.githubusercontent.com/40369168/127737435-bef9c93a-2991-48f9-bdd5-03b3c8b16fb2.PNG">
+
+2. How will it look after adding the password
+
+- <img width="492" alt="app-pass-2" src="https://user-images.githubusercontent.com/40369168/127737448-22faeb12-ac9b-4f3e-8e53-e5b10724558f.PNG">
+
+3. OTP got in my mail id. So how'll it look like
+
+- <img width="398" alt="otp-got" src="https://user-images.githubusercontent.com/40369168/127737486-d9742a21-7950-4404-8ee9-6d0553257d83.PNG">
+
 
 ### Sent OTP via Phone Number
 
