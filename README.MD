@@ -18,7 +18,7 @@
 > No need to install any new library. Just run the code.
 > Recommended IDE is PyCharm Community  
 
-### See the screenshots below for clarification
+## See the screenshots below for clarification
 
 1. How to add app passwords
 
@@ -35,9 +35,27 @@
 
 ### Sent OTP via Phone Number
 
+> So, this is something of hard too.  
+> You need to have twilio account with mail id & phone number verified. Make an account [here](https://www.twilio.com/try-twilio)  
+> First go to console & copy your ACCOUNT_SID & AUTH_TOKEN. You can get them [here](https://www.twilio.com/console)  
+> Then paste them in the space provided in the code  
+> Run the code
+
+## How to run
+
+> You need to install a library 'twilio'.Then just run the code.  
+> Recommended IDE is PyCharm Community  
 
 
+## See the screenshots below for clarification
+
+1. How will the output go
+
+- ![image](https://user-images.githubusercontent.com/40369168/127740723-166708ec-3435-4ef8-8959-1cdba044a5f8.png)
+
+2. What if you entered OTP incorrectly?
+
+- ![image](https://user-images.githubusercontent.com/40369168/127740760-b53afa9f-671b-452c-bf95-725baee4c88f.png)
 
 
-
-### 
+### Thanks for coming till here. Please give STAR & follow me for more projects.
