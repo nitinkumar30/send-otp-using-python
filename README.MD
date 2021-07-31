@@ -6,7 +6,7 @@
 
 ### Sent OTP via mail
 
->-  So, this is something hard to do.  
+>-  So, this is something hard to do. Access the file [here](https://github.com/nitin30kumar/sent-otp-using-python/blob/main/sent_otp_via_mail.py)  
 >-  Your mail should have 2F authentication enabled & in-app passwords added.  
 >-  First enable 2F authentication in your gmail account. Go through the process mentioned [here](https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DDesktop)  
 >-  Then follow how to add app password [here](https://support.google.com/accounts/answer/185833?hl=en)  
