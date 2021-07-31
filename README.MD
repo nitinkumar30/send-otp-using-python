@@ -39,7 +39,7 @@
 > You need to have twilio account with mail id & phone number verified. Make an account [here](https://www.twilio.com/try-twilio)  
 > First go to console & copy your ACCOUNT_SID & AUTH_TOKEN. You can get them [here](https://www.twilio.com/console)  
 > Then paste them in the space provided in the code  
-> Run the code
+> Run the code. See full documentation [here](https://www.twilio.com/docs/sms/quickstart/python)
 
 ## How to run
 
