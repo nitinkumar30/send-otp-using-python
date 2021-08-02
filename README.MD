@@ -15,7 +15,7 @@
 
 ### How to run
 
-> No need to install any new library. Just run the code.
+> No need to install any new library. Just run the code.  
 > Recommended IDE is PyCharm Community  
 
 ## See the screenshots below for clarification
@@ -43,7 +43,7 @@
 
 ## How to run
 
-> You need to install a library 'twilio'.Then just run the code.  
+> You need to install a library 'twilio'.Then just run the code.   
 > Recommended IDE is PyCharm Community  
 
 
